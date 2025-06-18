@@ -35,7 +35,9 @@ List of notable papers in humanoid robotics, sorted by year.
 
 <details>
   <summary>2019</summary>
-![](assets/humanoid_2019.png)
+<!-- ![](assets/humanoid_2019.png) -->
+
+![](humanoid_2019.png)
 
 - **Learning agile and dynamic motor skills for legged robots**  
   - Authors: [Paper Link](https://www.science.org/doi/10.1126/scirobotics.aau5872)   
