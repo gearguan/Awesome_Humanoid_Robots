@@ -28,7 +28,9 @@
 <details>
   <summary>2019</summary>
 
-<img src="assets/humanoid_2019.png" width="120" />
+<div align="center">
+  <img src="assets/2019.png" width="120" />
+</div>
 
 - **Learning agile and dynamic motor skills for legged robots**  
   - Authors: [Paper Link](https://www.science.org/doi/10.1126/scirobotics.aau5872)   
