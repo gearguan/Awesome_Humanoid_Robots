@@ -45,7 +45,6 @@ List of notable papers in humanoid robotics, sorted by year.
 <details>
   <summary>2020</summary>
 
-### **2020**  
 TODO
 
 </details>
