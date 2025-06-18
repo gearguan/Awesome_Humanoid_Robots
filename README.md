@@ -52,48 +52,6 @@ TODO
 
 </details>
 
-<details>
-  <summary>2021</summary>
-
-### **2021**  
-TODO
-
-</details>
-
-<details>
-  <summary>2022</summary>
-
-### **2022**  
-TODO
-
-</details>
-
-<details>
-  <summary>2023</summary>
-
-### **2023**  
-TODO
-
-</details>
-
-<details>
-  <summary>2024</summary>
-
-### **2024**  
-TODO
-
-</details>
-
-<details>
-  <summary>2025</summary>
-
-### **2025**  
-TODO
-
-</details>
-
----
-
 ## 🐱‍💻 GitHub
 
 <details>
@@ -141,12 +99,6 @@ TODO
   - Description: TODO
 
 </details>
-
----
-
-## 🛠️ How to Contribute
-
-Don't hesitate to leave issues or discussions if there are any corrections or errors. Contributions are welcome!
 
 ---
 
