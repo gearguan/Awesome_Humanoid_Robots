@@ -9,20 +9,14 @@
 <details>
   <summary>Companies</summary>
 
-### 👩‍💼 Companies
-
-- **Unitree Robotics**  
-  - Website: [https://www.unitree.com/cn/](https://www.unitree.com/cn/)   
+- [**Unitree Robotics**](https://www.unitree.com/cn/)   
 
 </details>
 
 <details>
   <summary>Platforms</summary>
 
-### 💻 Platforms
-
-- **Awesome Legged Locomotion Learning**  
-  - Repository: [https://github.com/gaiyi7788/awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)   
+- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)  
   - Description: TODO
 
 </details>
@@ -31,13 +25,10 @@
 
 ## 📑 Papers
 
-List of notable papers in humanoid robotics, sorted by year.
-
 <details>
   <summary>2019</summary>
-<!-- ![](assets/humanoid_2019.png) -->
 
-![](humanoid_2019.png)
+<img src="assets/humanoid_2019.png" width="120" />
 
 - **Learning agile and dynamic motor skills for legged robots**  
   - Authors: [Paper Link](https://www.science.org/doi/10.1126/scirobotics.aau5872)   
@@ -56,10 +47,7 @@ TODO
 <details>
   <summary>Repositories</summary>
 
-### Repositories
-
-- **legged_gym**  
-  - Repository: [https://github.com/leggedrobotics/legged_gym/tree/master](https://github.com/leggedrobotics/legged_gym/tree/master)   
+- [**legged_gym**](https://github.com/leggedrobotics/legged_gym/tree/master)   
   - Description: TODO
 
 </details>
