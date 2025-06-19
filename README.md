@@ -32,8 +32,10 @@
 <details>
   <summary>Platforms</summary>
 
-- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)  
-  - Description: TODO
+- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
+- [**Tien Kung Pro/Lite**](https://x-humanoid.com/opensource.html)
+- [**agibot X1**](https://github.com/AgibotTech/agibot_x1_hardware)
+- [**TALOS**](https://github.com/pal-robotics/talos_robot)
 
 </details>
 
