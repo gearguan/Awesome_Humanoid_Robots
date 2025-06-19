@@ -32,10 +32,9 @@
 <details>
   <summary>Platforms</summary>
 
-- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
-- [**Tien Kung Pro/Lite**](https://x-humanoid.com/opensource.html)
-- [**agibot X1**](https://github.com/AgibotTech/agibot_x1_hardware)
-- [**TALOS**](https://github.com/pal-robotics/talos_robot)
+- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)  
+  - Description: TODO
+
 </details>
 
 ---
@@ -61,14 +60,15 @@ TODO
 
 </details>
 
-## 🐱‍💻 GitHub
+## 🐱 GitHub
 
 <details>
   <summary>Repositories</summary>
 
 - [**legged_gym**](https://github.com/leggedrobotics/legged_gym/tree/master)   
-  - Description: TODO
-
+  - From ETH RSL
+- [**humanoid-gym**](https://github.com/roboterax/humanoid-gym)
+  - From Robotera
 </details>
 
 ---
@@ -97,12 +97,5 @@ TODO
   - Description: TODO
 
 </details>
-
----
-
-## 📸 Assets Folder
-
-- **Images**:  
-  - `humanoid_2019.png`: Cover image for the 2019 papers section.
 
 ---
