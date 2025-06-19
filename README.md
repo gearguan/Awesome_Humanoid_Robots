@@ -7,18 +7,35 @@
 ## 🤖 Humanoid Robot
 
 <details>
-  <summary>Companies</summary>
+  <summary>Companies & Institute</summary>
 
-- [**Unitree Robotics**](https://www.unitree.com/cn/)   
+- [**Unitree Robotics**](https://www.unitree.com/cn/)
+- [**LimX Dynamics**](https://www.limxdynamics.com/)
+- [**Westwood Robotics**](https://www.westwoodrobotics.io/)
+- [**APPTRONIK**](https://apptronik.com/)
+- [**KEPLER**](https://www.gotokepler.com/home)
+- [**ROBOTERA**](https://www.robotera.com/)
+- [**AgiBot**](https://www.agibot.com/)
+- [**DATAA ROBOTICS**](https://www.dataarobotics.com/zh/)
+- [**BostonDynamics**](https://bostondynamics.com/)
+- [**Agility Robotics**](https://www.agilityrobotics.com/)
+- [**Engineered Arts**](https://engineeredarts.com/)
+- [**UBTECH ROBOTICS**](https://www.ubtrobot.com/cn/)
+- [**Direct Drive Tech**](https://directdrive.com/)
+- [**X-Humanoid (北京人形机器人创新中心)**](https://x-humanoid.com/)
+- [**EngineAi**](https://www.engineai.com.cn/)
+- [**Leju Robotics**](https://www.lejurobot.cn/zh)
+- [**PAL**](https://pal-robotics.com/)
 
 </details>
 
 <details>
   <summary>Platforms</summary>
 
-- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)  
-  - Description: TODO
-
+- [**Awesome Legged Locomotion Learning**](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
+- [**Tien Kung Pro/Lite**](https://x-humanoid.com/opensource.html)
+- [**agibot X1**](https://github.com/AgibotTech/agibot_x1_hardware)
+- [**TALOS**](https://github.com/pal-robotics/talos_robot)
 </details>
 
 ---
@@ -61,30 +78,22 @@ TODO
 <details>
   <summary>Research</summary>
 
-### Research
-
-- **Learning agile and dynamic motor skills for legged robots**  
-  - Paper: [https://www.science.org/doi/10.1126/scirobotics.aau5872](https://www.science.org/doi/10.1126/scirobotics.aau5872)   
+- [**Learning agile and dynamic motor skills for legged robots**](https://www.science.org/doi/10.1126/scirobotics.aau5872)
 
 </details>
 
 <details>
   <summary>GitHub Repositories</summary>
 
-### GitHub Repositories
-
-- **Awesome Quadrupedal Robots**  
-  - Repository: [https://github.com/curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)   
+- [**Awesome Quadrupedal Robots**](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
+- [**Awesome Isaac Gym**](https://github.com/robotlearning123/awesome-isaac-gym)
 
 </details>
 
 <details>
   <summary>Labs & Companies</summary>
 
-### Labs & Companies
-
-- **Unitree Robotics**  
-  - Website: [https://www.unitree.com/cn/](https://www.unitree.com/cn/)   
+- [**Unitree Robotics**](https://www.unitree.com/cn/)   
   - Description: TODO
 
 </details>
